@@ -47,7 +47,7 @@ Bu6.place(x=100,y=260)
 
          #logo#
 #---------------------------
-logo=PhotoImage(file='Hash-Background-PNG.png')
+logo=PhotoImage(file='hash.png')
 logo=logo.subsample(4,4)
 lp=Label(wnd,
          image=logo,
